@@ -1,0 +1,88 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "nama": "afif",
+            "alamat": "Pekalongan",
+            "umur": 24,
+            "nohp": "081290132905"
+        },
+        {
+            "id": 2,
+            "nama": "bayu",
+            "alamat": "Jawa",
+            "umur": 24,
+            "nohp": "081290132905"
+        },
+        {
+            "id": 3,
+            "nama": "hendro",
+            "alamat": "Bandung",
+            "umur": 24,
+            "nohp": "081290132905"
+        },
+        {
+            "id": 4,
+            "nama": "budi",
+            "alamat": "Surabaya",
+            "umur": 25,
+            "nohp": "081290132905"
+        },
+        {
+            "id": 5,
+            "nama": "ilham",
+            "alamat": "Jakarta",
+            "umur": 26,
+            "nohp": "081290132905"
+        },
+        {
+            "id": 6,
+            "nama": "septi",
+            "alamat": "Sumedang",
+            "umur": 27,
+            "nohp": "081290132905"
+        },
+        {
+            "id": 7,
+            "nama": "fadli",
+            "alamat": "Jogja",
+            "umur": 28,
+            "nohp": "081290132905"
+        },
+        {
+            "id": 8,
+            "nama": "fikri",
+            "alamat": "Malang",
+            "umur": 29,
+            "nohp": "081290132905"
+        },
+        {
+            "id": 9,
+            "nama": "jenda",
+            "alamat": "Banten",
+            "umur": 30,
+            "nohp": "081290132905"
+        },
+        {
+            "id": 10,
+            "nama": "rizky",
+            "alamat": "Cirebon",
+            "umur": 31,
+            "nohp": "081290132905"
+        },
+        {
+            "id": 11,
+            "nama": "hanif",
+            "alamat": "Jambi",
+            "umur": 32,
+            "nohp": "081290132905"
+        },
+        {
+            "id": 12,
+            "nama": "fuad",
+            "alamat": "Bekasi",
+            "umur": 33,
+            "nohp": "081290132905"
+        }
+    ]
+}
